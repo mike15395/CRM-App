@@ -1,0 +1,31 @@
+.border-b {
+    border-bottom: 5px solid darkblue;
+    border-radius: 5px;
+    box-shadow: 0 6px 10px grey;
+    transition: .3 ease-in;
+    cursor: pointer;
+}
+
+.border-w {
+    border-bottom: 5px solid goldenrod;
+    border-radius: 5px;
+    box-shadow: 0 6px 10px grey;
+    transition: .3 ease-in;
+    cursor: pointer;
+}
+
+.border-s {
+    border-bottom: 5px solid darkgreen;
+    border-radius: 5px;
+    box-shadow: 0 6px 10px grey;
+    transition: .3 ease-in;
+    cursor: pointer;
+}
+
+.border-g {
+    border-bottom: 5px solid darkgray;
+    border-radius: 5px;
+    box-shadow: 0 6px 10px grey;
+    transition: .3 ease-in;
+    cursor: pointer;
+}
